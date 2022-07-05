@@ -4,34 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bb78072-9b25-4316-be01-dc3044b2c1f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/Mapper/CustomerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/Mapper/EmpMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/RentCarApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/config/MyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/pojo/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/pojo/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/pojo/Loginlog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/pojo/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/pojo/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/service/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/find_customer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/信息.md" afterDir="false" />
+    <list default="true" id="9bb78072-9b25-4316-be01-dc3044b2c1f2" name="Changes" comment="暑假实训项目 rentcar">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/Mapper/CustomerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/Mapper/CustomerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/Mapper/EmpMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/Mapper/EmpMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xing/zhy_rentcar/controller/CustomerController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,8 +67,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657002726564</updated>
-      <workItem from="1657002728698" duration="5431000" />
+      <workItem from="1657002728698" duration="7657000" />
     </task>
+    <task id="LOCAL-00001" summary="暑假实训项目 rentcar">
+      <created>1657009472666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657009472666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="暑假实训项目 rentcar" />
+    <option name="LAST_COMMIT_MESSAGE" value="暑假实训项目 rentcar" />
   </component>
 </project>

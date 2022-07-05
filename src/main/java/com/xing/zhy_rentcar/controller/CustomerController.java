@@ -24,7 +24,7 @@ public class CustomerController {
 
     @RequestMapping("/selectCustomer")
     public String selectCustomer(Model model) {
-        List<Customer> customers = customerService.selectCustomer();
+        List<Customer> customers = customerService.queryAllCustomer();
         model.addAttribute("customers", customers);
         return "find_customer";
     }
